@@ -4,7 +4,7 @@
 Front End Developer
 --------------------
 
-I started my journey in the programming area two years ago, initially I started with php, but recently I've been more focused on Frontend, especially with JavaScript and frameworks (React & React Native), Analysis and Software Development!
+I started my journey in the programming area two years ago, initially I started with php, but recently I've been focusing more on Frontend, mainly with JavaScript and frameworks (React & React Native), I'm studying Software Analysis and Development!
 
 - 🌎 I live in Curitiba - PR, Brazil
 - ✉️ You can contact me at [jaaziel.pereira2000@gmail.com](mailto:jaaziel.pereira2000@gmail.com)
